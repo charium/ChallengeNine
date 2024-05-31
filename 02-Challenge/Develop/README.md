@@ -1,6 +1,6 @@
 
-# asdf, [MIT license](https://opensource.org/licenses/MIT)
-fasd
+# READ.ME generator, [MIT license](https://opensource.org/licenses/MIT)
+Easily create and format a READ.ME for any project. 
 
 ## Table of Contents
 - [Description](#description)
@@ -13,20 +13,20 @@ fasd
 - [Questions](#questions)
 
 ## Installation
-fasdf
+Install this application by downloading the code at https://github.com/charium/ChallengeNine.git
 
 ## Usage
-asdf
+To use this application, open the downloaded code and interact with inquirer through the terminal. 
 
 ## License
 This application falls under the MIT License. Find further details in the repository.
 
 ## Contributing
 Contributing members are thanked and appreciated:
-[fdsf](https://github.com/fdsf)
+[Charium](https://github.com/Charium)
 
 ## Tests
-asdf
+Tests should be preformed well. 
 
 ## Questions
-If you have any questions, contact a team member by phone at ri9499393
+If you have any questions, contact a team member by github at Charium

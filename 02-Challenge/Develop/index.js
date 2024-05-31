@@ -25,6 +25,7 @@ function writeToFile(fileName, data) {
         if (err) {
             console.log(err);
         } else {
+            
             console.log("File written successfully");
         }
     });
