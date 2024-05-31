@@ -210,6 +210,9 @@ const questions = [
 
 // Function to write README file
 function writeToFile(fileName, data) {
+    if (fs.existsSync(fileName)) {
+        fs.unlinkSync(fileName);
+    }
     fs.writeFile(fileName, data, (err) => {
         if (err) {
             console.log(err);
