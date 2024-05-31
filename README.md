@@ -21,5 +21,5 @@ and here:
 ## License
 This application falls under the MIT License. Find further details in the repository.
 
-## Contributing
-Special thanks to the UNC bootcamp support team and instructor, [Saia](https://github.com/sfonua10). Coding was done by [Chloe Hall](https://github.com/Charium)
+## Credits
+This code was downloaded from the UNC-VIRT-FSF-PT-03-2024-U-LOLC source code found on the bootcamp repository. Special thanks to the course instructor, [Saia Fonua](https://github.com/sfonua10) for guiding me through this lesson. Help was also recieved from the course's AI XPert Learning Assistant, and the course prework module. 
